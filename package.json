@@ -1,7 +1,7 @@
 {
   "name": "haru-theme",
   "displayName": "Haru Theme",
-  "description": "dark theme",
+  "description": "A theme inspired by concentration, not attention",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.118.0"
@@ -12,10 +12,28 @@
   "contributes": {
     "themes": [
       {
-        "label": "oldfarmer96",
+        "label": "Haru Zen",
         "uiTheme": "vs-dark",
         "path": "./themes/haru-color-theme.json"
       }
     ]
+  },
+  "homepage": "https://github.com/oldfarmer96/haru-vscode",
+  "icon": "icon.png",
+  "keywords": [
+    "color",
+    "kanagawa",
+    "theme",
+    "dark",
+    "kanso",
+    "vscode",
+    "light",
+    "zen"
+  ],
+  "license": "MIT",
+  "publisher": "Oldfarmer96",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oldfarmer96/haru-vscode"
   }
 }
