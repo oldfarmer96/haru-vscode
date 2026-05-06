@@ -1,16 +1,23 @@
-# haru-theme README
+# haru zen Theme
 
-## Working with Markdown
+Un tema para VS Code diseñado para la concentracion. Colores tranquilos que no quitan el foco del codigo.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![haru zen theme preview](assets/haru-zen.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Instalacion
 
-## For more information
+1. Busca la extension **haru theme** en el marketplace de VS Code
+2. Instala la extension de **oldfarmer96**
+3. Ve a **File > Preferences > Color Theme**
+4. Selecciona **haru zen**
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Credits
 
-**Enjoy!**
+Este tema esta inspirado en:
+
+- [kanagawa.vscode](https://github.com/barklan/kanagawa.vscode.git)
+- [kanso-vscode](https://github.com/webhooked/kanso-vscode.git)
+
+## Licencia
+
+MIT License
