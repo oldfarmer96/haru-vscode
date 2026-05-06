@@ -1,0 +1,21 @@
+{
+  "name": "haru-theme",
+  "displayName": "Haru Theme",
+  "description": "dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.118.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "oldfarmer96",
+        "uiTheme": "vs-dark",
+        "path": "./themes/haru-color-theme.json"
+      }
+    ]
+  }
+}
