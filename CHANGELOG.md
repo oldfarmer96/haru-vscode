@@ -6,8 +6,19 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- README improvements (feature documentation, language previews, palette, installation methods).
-- Added contribution and feedback guidance.
+- No changes yet.
+
+## [0.0.3] - 2026-05-07
+
+### Changed
+
+- Updated extension icon for improved Marketplace branding.
+- Added language preview images for TypeScript, JSON, Go, and Python in the README.
+
+### Documentation
+
+- Improved README structure and project documentation for a more complete release page.
+- Added contributing and feedback guidance for community collaboration.
 
 ## [0.0.2] - 2026-05-07
 

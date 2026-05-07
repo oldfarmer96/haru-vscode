@@ -13,8 +13,6 @@ A VS Code theme designed for deep focus. Haru Zen keeps visual noise low with ca
 
 ## Language Previews
 
-> Preview placeholders are ready. Add your screenshots to these paths later.
-
 ![TypeScript Preview](assets/preview-ts.png)
 ![JSON Preview](assets/preview-json.png)
 ![Go Preview](assets/preview-go.png)
@@ -54,7 +52,7 @@ code --install-extension oldfarmer96.haru-theme
 ### Manual install (.vsix)
 
 ```bash
-code --install-extension haru-theme-0.0.2.vsix
+code --install-extension haru-theme-0.0.3.vsix
 ```
 
 ## Compatibility
