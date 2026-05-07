@@ -1,23 +1,23 @@
 # haru zen Theme
 
-Un tema para VS Code diseñado para la concentracion. Colores tranquilos que no quitan el foco del codigo.
+A VS Code theme designed for focus. Calm colors that keep attention on your code.
 
 ![haru zen theme preview](assets/haru-zen.png)
 
-## Instalacion
+## Installation
 
-1. Busca la extension **haru theme** en el marketplace de VS Code
-2. Instala la extension de **oldfarmer96**
-3. Ve a **File > Preferences > Color Theme**
-4. Selecciona **haru zen**
+1. Search for the **haru theme** extension in the VS Code Marketplace
+2. Install the extension by **oldfarmer96**
+3. Go to **File > Preferences > Color Theme**
+4. Select **haru zen**
 
 ## Credits
 
-Este tema esta inspirado en:
+This theme is inspired by:
 
 - [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim.git)
 - [kanso-vscode](https://github.com/webhooked/kanso-vscode.git)
 
-## Licencia
+## License
 
 MIT License
