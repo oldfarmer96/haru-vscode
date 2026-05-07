@@ -2,7 +2,7 @@
   "name": "haru-theme",
   "displayName": "Haru Theme",
   "description": "A theme inspired by concentration, not attention",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.118.0"
   },
