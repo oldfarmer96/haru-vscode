@@ -15,7 +15,8 @@ A VS Code theme designed for deep focus. Haru Zen keeps visual noise low with ca
 
 > Preview placeholders are ready. Add your screenshots to these paths later.
 
-![TypeScript + JSON Preview](assets/preview-ts-json.png)
+![TypeScript Preview](assets/preview-ts.png)
+![JSON Preview](assets/preview-json.png)
 ![Go Preview](assets/preview-go.png)
 ![Python Preview](assets/preview-python.png)
 
@@ -23,17 +24,17 @@ A VS Code theme designed for deep focus. Haru Zen keeps visual noise low with ca
 
 Core colors used by the theme:
 
-| Token/UI Role | Color |
-|---|---|
+| Token/UI Role     | Color     |
+| ----------------- | --------- |
 | Editor Background | `#14171d` |
 | Editor Foreground | `#c5c9c7` |
-| Selection | `#393B42` |
-| Keyword | `#8992A7` |
-| Function | `#8BA4B0` |
-| String | `#8A9A7B` |
-| Number | `#A292A3` |
-| Error | `#E82424` |
-| Warning | `#FF9E3B` |
+| Selection         | `#393B42` |
+| Keyword           | `#8992A7` |
+| Function          | `#8BA4B0` |
+| String            | `#8A9A7B` |
+| Number            | `#A292A3` |
+| Error             | `#E82424` |
+| Warning           | `#FF9E3B` |
 
 ## Installation
 
