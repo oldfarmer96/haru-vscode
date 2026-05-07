@@ -15,7 +15,7 @@ Un tema para VS Code diseñado para la concentracion. Colores tranquilos que no 
 
 Este tema esta inspirado en:
 
-- [kanagawa.vscode](https://github.com/barklan/kanagawa.vscode.git)
+- [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim.git)
 - [kanso-vscode](https://github.com/webhooked/kanso-vscode.git)
 
 ## Licencia
